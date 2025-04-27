@@ -474,9 +474,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Documents/KPL/tp10/tpmodul_10/tpmodul_10/tpmodul_10.csproj",
-      "projectName": "tpmodul_10",
-      "projectPath": "/Users/mac/Documents/KPL/tp10/tpmodul_10/tpmodul_10/tpmodul_10.csproj",
+      "projectUniqueName": "/Users/mac/Documents/KPL/tp10/tpmodul_10/tpmodul_10/tpmodul_10_103022300123.csproj",
+      "projectName": "tpmodul_10_103022300123",
+      "projectPath": "/Users/mac/Documents/KPL/tp10/tpmodul_10/tpmodul_10/tpmodul_10_103022300123.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
       "outputPath": "/Users/mac/Documents/KPL/tp10/tpmodul_10/tpmodul_10/obj/",
       "projectStyle": "PackageReference",

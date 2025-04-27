@@ -1,21 +1,17 @@
 ﻿<Properties StartupConfiguration="{9C09E2DA-237A-44B2-A53B-95595B3DF140}|https">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.tpmodul__10 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul_10/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.tpmodul__10__103022300123 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul_10/Controllers/MahasiswaController.cs">
     <Files>
       <File FileName="tpmodul_10/Program.cs" Line="1" Column="1" />
-      <File FileName="tpmodul_10/WeatherForecast.cs" />
+      <File FileName="tpmodul_10/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="tpmodul_10/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="tpmodul_10/Controllers/MahasiswaController.cs" Line="19" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="tpmodul_10">
-            <Node name="tpmodul_10" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
